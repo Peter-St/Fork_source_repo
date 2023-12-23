@@ -22,13 +22,14 @@ void newMethodInSource() {
 x = y+2;
 }
 
+void test (int a) {
+    p = a;
+}
 
 void startStreamingCustom (int a) {
     int x = 1
+    test(50);
 }
-
-test rebase
-
 
 // END 
 
