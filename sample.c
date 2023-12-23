@@ -11,5 +11,6 @@
 int p;
 
 void setP(long a) {
-    p=2;
+    p=4;
+p-2
 }
