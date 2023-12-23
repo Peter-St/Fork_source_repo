@@ -9,10 +9,12 @@
 #include <setjmp.h>
 
 int p;
+int a;
 
 void setP(long a) {
     p=4;
-    p-2
+    p-2;
+    p-3;
 }
 
 
@@ -20,9 +22,13 @@ void newMethodInSource() {
 x = y+2;
 }
 
+
 void startStreamingCustom (int a) {
     int x = 1
 }
 
 test rebase
+
+
+// END 
 
