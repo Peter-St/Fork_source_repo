@@ -8,17 +8,18 @@
 #include <android/bitmap.h>
 #include <setjmp.h>
 
+// Begin Source
+
 int p;
 int a;
 
 void setP(long a) {
     p=4;
-    p-2;
     p-3;
 }
 
 void newMethodInSource() {
-x = y+2;
+    x = y+2;
 }
 
-// END 
+// END Source
