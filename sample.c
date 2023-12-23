@@ -8,20 +8,20 @@
 #include <android/bitmap.h>
 #include <setjmp.h>
 
+// Begin Source
+
 int p;
 int a;
 
 void setP(long a) {
     p=4;
-    p-2;
     p-3;
 }
 
 
 void newMethodInSource() {
-x = y+2;
+    x = y+2;
 }
-
 
 void startStreamingCustom (int a) {
     int x = 1
@@ -29,6 +29,5 @@ void startStreamingCustom (int a) {
 
 test rebase
 
-
-// END 
+// END Source
 
