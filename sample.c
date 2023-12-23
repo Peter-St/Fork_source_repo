@@ -12,9 +12,17 @@ int p;
 
 void setP(long a) {
     p=4;
-p-2
+    p-2
 }
+
 
 void newMethodInSource() {
 x = y+2;
 }
+
+void startStreamingCustom (int a) {
+    int x = 1
+}
+
+test rebase
+
